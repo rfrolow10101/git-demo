@@ -2,18 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-TEST1
-TEST2
-TEST3
-TEST4
-TEST5
-TEST6
-TEST7
-TEST8
-
-THIS IS AWESOME
-REALLY COOL SYSTEM
-TEST TEST TEST
-EXERCISE EXERCISE EXERCISE
+1. index.html
